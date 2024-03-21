@@ -40,7 +40,5 @@ fun Details(viewModel: ViewModel) {
             }
         }
     }
-
-
 }
 
